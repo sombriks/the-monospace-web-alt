@@ -1,0 +1,15 @@
+{
+  "name": "the-monospace-web-alt",
+  "version": "1.0.0",
+  "description": "alternative package to provide the css from the-monospace-web created by Oskar Wickström",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monospace",
+    "css"
+  ],
+  "author": "Oskar Wickström",
+  "license": "MIT"
+}
