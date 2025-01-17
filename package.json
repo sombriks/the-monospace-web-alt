@@ -1,6 +1,6 @@
 {
   "name": "the-monospace-web-alt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "alternative package to provide the css from the-monospace-web created by Oskar Wickström",
   "main": "index.js",
   "scripts": {

@@ -18,6 +18,13 @@ import 'node_modules/the-monospace-web-alt/reset.css'
 import 'node_modules/the-monospace-web-alt/index.css'
 ```
 
+Or use any CDN able to mirror npm packages:
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/the-monospace-web-alt@1.0.1/reset.css"/>
+<link rel="stylesheet" href="https://unpkg.com/the-monospace-web-alt@1.0.1/index.css"/> 
+```
+
 ## Why alt
 
 I hope that one day Oskar find the time to create the official npm package.
